@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 body {
+  background: deepskyblue;
+  color: rebeccapurple;
   font-family: cursive;
   display: flex;
   justify-content: space-evenly;
@@ -13,14 +14,17 @@ h1 {
 }
 h2 {
   font-size: 7vh;
+  text-align: center;
 }
 p {
   font-size: 6vh;
 }
 #options {
   display: flex;
+  padding: 5vh;
+  width: 50vw;
   justify-content: space-evenly;
 }
-=======
-
->>>>>>> origin/main
+#result {
+  
+}
