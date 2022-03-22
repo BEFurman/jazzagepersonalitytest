@@ -111,7 +111,6 @@ function q10() {
   });
 }
 function end() {
-  console.log('ur done')
   document.getElementById('h2').style.display = 'none';
   document.getElementById('options').style.display = 'none';
   document.getElementById('result').style.display = 'block';
